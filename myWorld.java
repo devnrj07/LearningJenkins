@@ -1,5 +1,5 @@
 
-private class myWorld{
+ class myWorld{
 
  public static void main(String[] args) {
   
